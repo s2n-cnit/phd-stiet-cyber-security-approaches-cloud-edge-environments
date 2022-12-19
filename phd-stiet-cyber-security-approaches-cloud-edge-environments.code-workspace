@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "PhD STIET Cyber security approaches for Cloud/Edge Environments",
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"blexim",
+			"dnsmasq",
+			"dport",
+			"ntex",
+			"teso"
+		]
+	}
+}

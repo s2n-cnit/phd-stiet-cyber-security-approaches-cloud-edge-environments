@@ -2,10 +2,12 @@
 
 ## Materials
 
-- Slides 1 [[pptx](slides/slides-1.pptx) | [pdf](slides/slides-1.pdf)]
-- Slides 2 [[pptx](slides/slides-2.pptx) | [pdf](slides/slides-2.pdf)]
-- Slides 3 [[pptx](slides/slides-3.pptx) | [pdf](slides/slides-3.pdf)]
-- Slides 4 [[pptx](slides/slides-4.pptx) | [pdf](slides/slides-4.pdf)]
-- Slides 5 [[pptx](slides/slides-5.pptx) | [pdf](slides/slides-5.pdf)]
-- Slides 6 [[pptx](slides/slides-6.pptx) | [pdf](slides/slides-6.pdf)]
-- Slides 7 [[pptx](slides/slides-7.pptx) | [pdf](slides/slides-7.pdf)]
+| # Slides | Version                                                                                    |
+| :------: | ------------------------------------------------------------------------------------------ |
+|    1     | [![pptx](imgs/pptx.png)](slides/slides-1.pptx) [![pdf](imgs/pdf.png)](slides/slides-1.pdf) |
+|    2     | [![pptx](imgs/pptx.png)](slides/slides-2.pptx) [![pdf](imgs/pdf.png)](slides/slides-2.pdf) |
+|    3     | [![pptx](imgs/pptx.png)](slides/slides-3.pptx) [![pdf](imgs/pdf.png)](slides/slides-3.pdf) |
+|    4     | [![pptx](imgs/pptx.png)](slides/slides-4.pptx) [![pdf](imgs/pdf.png)](slides/slides-4.pdf) |
+|    5     | [![pptx](imgs/pptx.png)](slides/slides-5.pptx) [![pdf](imgs/pdf.png)](slides/slides-5.pdf) |
+|    6     | [![pptx](imgs/pptx.png)](slides/slides-6.pptx) [![pdf](imgs/pdf.png)](slides/slides-6.pdf) |
+|    7     | [![pptx](imgs/pptx.png)](slides/slides-7.pptx) [![pdf](imgs/pdf.png)](slides/slides-7.pdf) |
